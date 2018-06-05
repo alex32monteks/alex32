@@ -1,0 +1,8 @@
+D:\Alex\VisualStudio\WebTest\FmClient\bin\Release\FmClient.exe
+D:\Alex\VisualStudio\WebTest\FmClient\bin\Release\FmClient.pdb
+D:\Alex\VisualStudio\WebTest\FmClient\obj\x86\Release\FmClient.Properties.Resources.resources
+D:\Alex\VisualStudio\WebTest\FmClient\obj\x86\Release\FmClient.csproj.GenerateResource.Cache
+D:\Alex\VisualStudio\WebTest\FmClient\obj\x86\Release\FmClient.exe
+D:\Alex\VisualStudio\WebTest\FmClient\obj\x86\Release\FmClient.pdb
+D:\Alex\VisualStudio\WebTest\FmClient\obj\x86\Release\FmClient.Form1.resources
+D:\Alex\VisualStudio\WebTest\FmClient\bin\Release\FmClient.exe.config
